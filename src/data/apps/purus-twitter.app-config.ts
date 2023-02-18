@@ -5,7 +5,7 @@ export const purusTwitterAppConfig = createAppConfig({
   resizable: true,
 
   shouldOpenWindow: false,
-  externalAction: () => window.open('https://github.com/sidedgetech', '_blank'),
+  externalAction: () => window.open('https://github.com/sideedgetech/', '_blank'),
 
   dockBreaksBefore: true,
 });
